@@ -11,9 +11,11 @@ The website features many different articles that cover many things to do with a
  ### Interactive Museums ###
  The site also allows visitors access to museums and galleries around the world. One of which is the *Museu de Arte de São Paulo*. As with last week’s virtual tour of The British Museum, visitors can also move around in the museum and interact with the collection as though they are in the museum.Interestingly as well as Google Maps Street View, visitors can do this using Augmented Reality with  the aid of the *Art Projector* app. In addition to this, the site allows you to interact with the paintings in the gallery as it displays the names of the painting which then link to a digitised version with additional information such as the size and provenance. The site also recommends other paintings by the artist and other visually similar paintings.Visitors can ‘like’ these paintings thereby adding them to their favourites to be revisited at any time or added to their own personal galleries.
           
-![Google Arts](google-arts.png)
+![](google-arts.png)
            
  ### Final Thoughts ###
 Google Arts and Culture is a very exciting site that allows users to craft and personalize their own cultural experience. The various unique features of this site make it quite the experience!
         
- You can visit the Google Arts and Culture site [link]: (https://artsandculture.google.com/) here.
+ You can visit the Google Arts and Culture site 
+ [link]: (https://artsandculture.google.com/)
+  here.
