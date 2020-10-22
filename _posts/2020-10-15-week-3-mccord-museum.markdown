@@ -14,7 +14,7 @@ The collection seems to be created for people who have some knowledge of the his
 Culture and wish to know more, as the archive provides an incredibly wide range of artefacts which could 
 be overwhelming for those who aren't searching for anything specific. This enables visitors access to several different aspects of Canadian history, including but not limited to: fashion, art and photography. It is perhaps, due to this wide range of artifacts that visitors are put at a slight disadvantage.There are only detailed descriptions for some items in the collection however, most of those that don’t have a description can be figured out from the title. Though this does not completely affect the visitor’s experience, this can make a visit to the online collection slightly repetitive  if all viewers are seeing is the basic information listed alongside a picture.
 
-![mccord](\media\mccord.png)
+![mccord](/media/mccord.png)
             
 The collection - especially taking the size into consideration- was possibly put together by teams including those at the seven different museums that collaborated to make this a reality. For collections such as the 
 indigenous cultures collection, especially with it being sourced from several different indigenous communities  and how artifacts from communities such as these have been collected historically; colonialism could be suggested as one of the conditions of possibility.
