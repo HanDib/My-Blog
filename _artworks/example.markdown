@@ -1,10 +1,8 @@
 ---
-layout:
-artist:
-title:
-year:
-medium:
-owned_by:
-dimensions:
-permanent_url:
-image:
+Artist Id:
+English Name:
+Nationality:
+Gender:
+Birth Year:
+Death Year:
+---
