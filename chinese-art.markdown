@@ -9,7 +9,7 @@ title: Artists
 <img src= "media/china-artworks/{{ artist.EnglishName | replace: ' ' , '_' }}_{{artist.ChineseName}}/{{ artist.EnglishName | replace: ' ' , '_' }}.jpg">
 
 {% for i in (1..3) %} 
-media/china-artworks/{{ artist.EnglishName | replace: ' ' , '_' }}_{{artist.ChineseName}}{{ artist.EnglishName | replace: ' ' ,  '_' }}_0{{ i }}.jpg
+media/china-artworks/{{ artist.EnglishName | replace: ' ' , '_' }}_{{artist.ChineseName}}/{{ artist.EnglishName | replace: ' ' ,  '_' }}_0{{ i }}.jpg
   {{ i }}
 {% endfor %}
 
