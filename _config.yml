@@ -53,5 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  archives:
+    archives:
     output: true
