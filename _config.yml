@@ -52,5 +52,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 collections:
-    archives:
+  archives:
     output: true

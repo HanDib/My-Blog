@@ -4,7 +4,7 @@ title: Week 4 - The Internet Archive
 date: 2020-10-22 18:00:01 +0100
 categories: Blog post
 ---
-## The Interent Archive ##
+## The Internet Archive ##
 This week’s visit was to The Internet Archive, Archive.org. The Internet Archive - who describe themselves as a “digital library”  is a non profit organization and was created in 1996 and initially started by archiving the internet. This has allowed them to grow a collection of 475 billion web pages, accessible through the *wayback machine*, compiled over almost twenty five years.  The Internet Archive claims their mission is to “provide Universal Access to All Knowledge.” The Archive itself does this by providing an archive with access to not only web pages but also: 28 million books and texts, 14 million audio recordings (including 220,000 live concerts), 6 million videos (including 2 million Television News programs), 3.5 million images and     580,000 software programs.
 
 The collections are sourced from both users and the archive itself. That is to say that the archive allows users who have created accounts to upload their own content and the people who work for the archive also digitise a great number of  books and documents- the archive claims they scan “1000 books per day in 28 locations around the world”. Though the Open Library Project justifies its operation through fair use laws and not making commercial profit from the materials they share, there have been  claims of copyright infringement, most recently by publishers including HarperCollins and Hachette.

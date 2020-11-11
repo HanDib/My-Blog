@@ -1,7 +1,7 @@
 ---
 layout: digitalobject
 name: The Mccord Museum
-url: http://collections.musee-mccord.qc.ca/en/keys/collections/
+museumurl: http://collections.musee-mccord.qc.ca/en/keys/collections/
 country: Canada
 google_map_location: https://www.google.com/maps/place/McCord+Museum/@45.504298,-73.5734071,15z/data=!4m2!3m1!1s0x0:0xd1683b4ce04d0773?sa=X&ved=2ahUKEwjdpNiX-dzsAhVsQEEAHcOUC0IQ_BIwDnoECBgQBQ
 screenshot: /media/mccord.png

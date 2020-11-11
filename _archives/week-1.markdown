@@ -1,7 +1,7 @@
 ---
 layout: digitalobject
 name: The British Museum
-url: https://www.britishmuseum.org/visit?gclid=CjwKCAjw8-78BRA0EiwAFUw8LBVaviu12jmGGfIFaak3SLyuTc_ZYEqL-SUt9h02J1m0sfRsJzPWQRoCxoUQAvD_BwE
+museumurl: https://www.britishmuseum.org/visit?gclid=CjwKCAjw8-78BRA0EiwAFUw8LBVaviu12jmGGfIFaak3SLyuTc_ZYEqL-SUt9h02J1m0sfRsJzPWQRoCxoUQAvD_BwE
 country: England
 google_map_location: https://www.google.com/maps/place/The+British+Museum/@51.5194133,-0.1269566,15z/data=!4m2!3m1!1s0x0:0x2fb199016d5642a7?sa=X&ved=2ahUKEwjuwez6-NzsAhVDlFwKHfWABUAQ_BIwLXoECC4QBQ
 screenshot: \media\unnamed.png

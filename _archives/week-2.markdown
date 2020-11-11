@@ -1,7 +1,7 @@
 ---
 layout: digitalobject
 name: Google Arts and Culture
-url: https://artsandculture.google.com/
+museumurl: https://artsandculture.google.com/
 country:
 google_map_location:
 screenshot: /media/googlearts.png

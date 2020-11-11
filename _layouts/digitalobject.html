@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+<h1>{{ page.name }} // {{ page.country }} // {{ page.date_of_visit }}</h1>
+<img src= "{{page.screenshot}}" alt="{{page.name}}//{{ page.date_of_visit }}">
+<p>Visit here: <a href="{{ page.museumurl }}"> {{ page.name }} </a></p>
+<p>Located <a href= "{{ page.google_map_location }}"> here </a> </p>
+<p>My favourite item from the collection was <em>{{page.favourite_object_name}} </em>, this can be found <a href ="{{page.favourite_object_url}}"> here </a></p>
+</p>
+<p>You can read my review of the expedition <a href= {{page.my_review_url}}> here </a></p>
