@@ -1,0 +1,11 @@
+---
+layout: page
+title: Doom
+---
+
+<h2>This page shows bands that make Doom Metal. This includes all subgenres of doom such as <em> death, symphonic and atmospheric doom</em>. </h2>
+{% for bands in site.data.metal_bands_2017 %}
+{% if bands.style contains "doom" %}
+<h3>{{bands.band_name}} </h3> 
+{% endif %}
+{% endfor %}

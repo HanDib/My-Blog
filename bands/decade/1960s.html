@@ -1,0 +1,12 @@
+---
+layout: page
+title: 1960s
+---
+
+<h3>This page contains all bands that were formed in the 1960s.</h3>
+{% for bands in site.data.metal_bands_2017 %}
+{% for i in (1964..1969) %}
+    {{i}} 
+ {{bands.formed}}
+{% endfor %}
+{% endfor %}

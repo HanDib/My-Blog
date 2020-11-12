@@ -1,0 +1,11 @@
+---
+layout: page
+title: Sludge
+---
+
+<h2> This page lists all bands that make Sludge Metal.</h2>
+{% for bands in site.data.metal_bands_2017 %}
+{% if bands.style contains "sludge" %}
+<h3>{{bands.band_name}} </h3> 
+{% endif %}
+{% endfor %}

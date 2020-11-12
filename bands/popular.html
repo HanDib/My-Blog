@@ -1,0 +1,11 @@
+---
+layout: page
+title: Popular bands
+---
+<h2> Popular bands</h2>
+<h3>The bands listed on this page are very popular, this means they have over <b>3000 </b> fans! </h3>
+{% for bands in site.data.metal_bands_2017 %}
+{% if bands.fans >= "3000" %}
+<h4>{{ bands.band_name}}</h4>
+{% endif %}
+{% endfor %}

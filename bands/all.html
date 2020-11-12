@@ -1,0 +1,14 @@
+---
+layout: page
+title: All Bands
+---
+{% for bands in site.data.metal_bands_2017 %}
+<h2> {{ bands.band_name }} , Formed in: {{bands.formed}}</h2>
+<p>No. of fans: {{bands.fans}}</p>
+<p> This band originated in: {{bands.origin}}</p>
+<p> Split: {{bands.split | remove: "-"}}
+{% if bands.split == "-" %}
+This band is still active!
+{% endif %}</p>
+<p>Style: {{bands.style}}</p>
+{% endfor %}

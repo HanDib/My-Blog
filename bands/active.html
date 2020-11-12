@@ -1,0 +1,11 @@
+---
+layout: page
+title: Active Bands
+---
+<h2> These bands are currently active </h2>
+
+{% for bands in site.data.metal_bands_2017 %}
+{% if bands.split == "-" %}
+<h3>{{bands.band_name}} </h3> 
+{% endif %}
+{% endfor %}
